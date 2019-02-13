@@ -1,0 +1,30 @@
+ul {
+  /* display: block; */
+  height: 100px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+li {
+  width: 300px;
+  background-color: chartreuse;
+  
+}
+
+figure{
+  display: flex;
+
+}
+
+#1{
+  width: 50px;
+  
+}
+
+#2{
+  width: 100px;
+}
+#3{
+  width: 150px;
+}
